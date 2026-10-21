@@ -28,7 +28,7 @@ Wszystkie terminy przypadają w niedzielę o godzinie 23:59. Wszystko oddajesz n
 
 | Etap | Instrukcja | Termin | Punkty | Co oddajesz |
 |---|---|---|---|---|
-| Zgłoszenie tematu | [00_topic_submission.md](assignments/00_topic_submission.md) | 18 października 2026 | 0, obowiązkowe | wypełniony szablon zgłoszenia |
+| Zgłoszenie tematu | [00_topic_submission.md](assignments/00_topic_submission.md) | 21 października 2026 | 0, obowiązkowe | wypełniony szablon zgłoszenia |
 | Zadanie 1 | [01_data_and_protocol.md](assignments/01_data_and_protocol.md) | 8 listopada 2026 | 15 | link do repozytorium i tag `task-1` |
 | Akceptacja artykułu spoza listy | [scientific_paper_review.md](assignments/scientific_paper_review.md) | 22 listopada 2026 | 0, obowiązkowe dla źródeł spoza listy | pełny opis bibliograficzny oraz DOI albo oficjalny link |
 | Zadanie 2 | [02_baseline.md](assignments/02_baseline.md) | 29 listopada 2026 | 15 | link i tag `task-2` |
